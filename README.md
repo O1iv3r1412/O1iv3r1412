@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @O1iv3r1412
 - 👀 I’m interested in learning code
-- 🌱 I’m currently learning html, css, javascript, react
+- 🌱 I learned html, css, javascript
+- 🌱 I'm currently learning flutter and dart
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
